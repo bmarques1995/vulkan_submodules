@@ -7,3 +7,6 @@
 [submodule "modules/vulkan_extensions"]
 	path = modules/vulkan_extensions
 	url = https://github.com/KhronosGroup/Vulkan-ExtensionLayer.git
+[submodule "modules/spirv_wrapper"]
+	path = modules/spirv_wrapper
+	url = https://github.com/bmarques1995/spirv_wrapper.git
