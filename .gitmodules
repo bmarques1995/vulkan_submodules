@@ -10,3 +10,9 @@
 [submodule "modules/spirv_wrapper"]
 	path = modules/spirv_wrapper
 	url = https://github.com/bmarques1995/spirv_wrapper.git
+[submodule "modules/vulkan_validation"]
+	path = modules/vulkan_validation
+	url = https://github.com/KhronosGroup/Vulkan-ValidationLayers.git
+[submodule "modules/robin_hood_hashing"]
+	path = modules/robin_hood_hashing
+	url = https://github.com/martinus/robin-hood-hashing.git
